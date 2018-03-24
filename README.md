@@ -24,6 +24,6 @@ File is (Iris_in_Format.py[(Iris_in_Format.py)
 
 File is [Factorial.py](Factorial.py)
 
-### Another Script which looks for an ***input from the user*** and gives the factorial of that number. 
+### Another Script which looks for an input from the user and gives the factorial of that number. 
 
 File is [Factorial_Inp.py](Factorial_Inp.py)
